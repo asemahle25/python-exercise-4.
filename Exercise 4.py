@@ -10,8 +10,7 @@ for fruit in fruits:
 #-------------------------------------------------------------------------
 # Question 2: Using a while loop for countdown
 
-# TODO: Use a while loop to create a countdown from 5 to 1
-countdown = 5
+# TOhttps://github.com/asemahle25/python-exercise-4..gittdown = 5
 while countdown > 0:
    print(countdown)
    countdown += -1
