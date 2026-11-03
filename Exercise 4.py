@@ -10,12 +10,14 @@ for fruit in fruits:
 #-------------------------------------------------------------------------
 # Question 2: Using a while loop for countdown
 
-# TOhttps://github.com/asemahle25/python-exercise-4..gittdown = 5
-while countdown > 0:
+countdown = 5
+while countdown > 1:
    print(countdown)
-   countdown += -1
-#-------------------------------------------------------------------------
+   countdown -= 1
 
+# Question 3: Using a for loop with a range
+for i in range(1, 11):
+    print(i * i)
 # Question 4: Using the random module
 
 # TODO: Import the random module
